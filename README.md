@@ -1,5 +1,7 @@
-# Plugin Template
+# WP Engine WordCamps near you
 
-This is a template file for a plugin.
+Provides a widget that shows upcoming WordCamps (and user-defined events) near the visitor.
 
-It has the core structure for building an OOP extensible plugin
+Includes an *Events* custom post type for adding extra events beyond WordCamps.
+
+Uses GeoIP on the WP Engine platform.
